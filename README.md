@@ -1,50 +1,119 @@
-# Hi there, I'm Darius 👋
+<div align="center">
 
-🎓 **Computer Science & Information Technology Student** @ UTCN (3rd Year)  
-💻 Passionate about **Software Engineering, Embedded Systems, Mobile & Backend Development**  
-🚀 Constantly building, learning, and refining code.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · meradarius299</sub></p>
+<h1>Mera Darius</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>3rd year Computer Science at
+ 
+Techincal University of Cluj-Napoca</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Cluj-Napoca, Romania</sub></p>
+<p><a href="https://github.com/meradarius299">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/120124905?v=4" width="180" alt="Mera Darius GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 🛠️ Tech Stack & Tools
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>53 contributions · 21 active days</p></td>
+</tr>
+</table>
 
-**Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge)
+<p><sub>3rd year Computer Science at
+ 
+Techincal University of Cluj-Napoca</sub></p>
 
-**Frameworks & Web:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<h2>Proof at a glance</h2>
 
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-AMD-00599C?style=for-the-badge)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>53</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mera Darius GitHub proof metrics" />
+</picture>
+</p>
 
-### 📌 Highlighted Projects
+<h2>Selected work</h2>
 
-- 🔹 **32-bit MIPS Pipeline Processor** – Designed and implemented in VHDL, tested in Vivado simulation & Nexys A7 FPGA.
-- 🔹 **Orders Management Application** – Java layered architecture app utilizing Reflection, Java Records, and PostgreSQL.
-- 🔹 **Smart Microcontroller Systems** – Hardware/software integration using microcontrollers, sensors, and servo control.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&repos=meradarius299%2FCalorieTrackerBD%2Cmeradarius299%2FHiddenGem%2Cmeradarius299%2Fmeradarius299%2Cmeradarius299%2FOrdersManagerSystem&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&repos=meradarius299%2FCalorieTrackerBD%2Cmeradarius299%2FHiddenGem%2Cmeradarius299%2Fmeradarius299%2Cmeradarius299%2FOrdersManagerSystem&v=recruiter-projects-1&mode=dark" width="100%" alt="Mera Darius selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/meradarius299/CalorieTrackerBD">CalorieTrackerBD</a></h3>
+<p>A selected public project.</p>
+<p><sub>TSQL · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/meradarius299/CalorieTrackerBD">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/meradarius299/HiddenGem">HiddenGem</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/meradarius299/meradarius299">meradarius299</a></h3><p>Hello world , this is my profile</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/meradarius299/OrdersManagerSystem">OrdersManagerSystem</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 📫 Connect with me
+<h2>Technical toolkit</h2>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meradarius299@gmail.com)
-[![](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+40YOUR_PHONE_NUMBER)
-[![](https://img.shields.io/badge/Resume-PDF-4A154B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mera Darius technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>58% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>TSQL</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=meradarius299&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mera Darius contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/meradarius299">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Mera Darius · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
