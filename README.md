@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=meradarius299&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120124905%3Fv%3D4" alt="meradarius299 hero visual" />
 </p>
 
-<p align="center"><b>Mera Darius</b> · Frontend or full-stack engineer<br/><sub>3rd year Computer Science at <sub>Techincal University of Cluj-Napoca</sub></p>
+<p align="center"><b>Mera Darius</b> · Frontend or full-stack engineer<br/><sub>3rd year Computer Science at </sub> <sub<Techincal University of Cluj-Napoca</sub></p>
 
 <p align="center"><a href="https://github.com/meradarius299">GitHub</a></p>
 
